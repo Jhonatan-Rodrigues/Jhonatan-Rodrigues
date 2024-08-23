@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jhonatan
-- 🌱 I’m currently learning Java
-- 💬 Ask me about Java
+- 🌱 I’m currently full stack developer intern
+
 
 ### Best technologies
 <div>

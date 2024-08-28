@@ -14,12 +14,21 @@
 
 ### My Stats
 
-<div>
-  <a href="https://github.com/Jhonatan-Rodrigues">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatan-Rodrigues&layout=compact&langs_count=7&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonatan-Rodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
+## Olá, eu sou [Seu Nome]!
+
+### GitHub Stats
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_NOME_DE_USUARIO&show_icons=true&count_private=true&theme=radical)
+
+### Linguagens Mais Usadas
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_NOME_DE_USUARIO&layout=compact&theme=radical)
+
+### Gráfico de Atividade
+
+![Gráfico de Atividade](https://github-readme-activity-graph.cyclic.app/graph?username=SEU_NOME_DE_USUARIO&theme=dracula)
+
+ 
 
 ### Contacts
 

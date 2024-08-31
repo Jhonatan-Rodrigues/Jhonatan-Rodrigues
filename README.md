@@ -14,7 +14,7 @@
 
 ### My Stats
 
-### My Stats
+
 
 <hr>
 
